@@ -4,7 +4,7 @@ console.log(palabra);
 //define two variables
 var x , y ;
 for (x=1;x<10;x++) {
-    console.log(y=2+x+3);
+    console.log(y=2*x+3);
 }
 //quadratic equation
 const a=1;
