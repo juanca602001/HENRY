@@ -1,0 +1,27 @@
+CONCEPTOS TEORICOS DE JAVASCRIPT
+Variable: espacio reservado en la memoria para su utilización por el sistema, en estos lugares
+se pueden almacenar distintos tipos de datos (number, string, boolean). en javascript no hace 
+falta definir el tipo de dato.
+String: es un tipo de dato que esta formado por cadenas de texto; algunos ejemplos serían:
+ "hola"
+ "Juan"
+ "año 2021"
+ en javascript una letra o un conjunto de letras es considerado un string. por lo tanto tiene
+ propiedades y métodos.
+ Funciones: son objetos que usa javascript para realizar procesos repetitivos. Las mismas estan
+ constituidas por la función, el nombre de la función, los argumentos y codigo a ejecutar.
+ Estos objetos son muy utiles en javascript por la posibilidad que tiene de ser reutilizados
+ en forma reiterada. El o los argumentos son los datos usados por el codigo de la función para
+ obtener algun resultado. La unica manera de detener y extraer un resultado de la funcion es por
+ medio del comando return.
+ function EcuaCuad(a,b,c){instrucciones para obtener x1 y x2;
+ return (x1,x2)}
+ Declaraciones if: este comando permite redireccionar el flujo de instrucciones, los mismos depende
+ de condiciones que debe cumplir; es decir si la condicion es verdadera realiza una serie de
+ instrucciones, caso contrario realiza otras. la sintaxis seria la siguiente:
+ if(a<b){si es true se realeza esta instruccion};
+ {si es false se realiza esta}
+ Valores booleanos true y false: en javascript se usa estos valores que responden a dos estados
+ (si/no), (0/1), (verdadero/falso); teniendo en cuenta que una variable booleana solo puede tomar
+ uno de estos estados a la vez.
+
